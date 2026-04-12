@@ -132,15 +132,6 @@ Comprehensive manual tests were performed across:
 
 ---
 
-## 👥 Team Contributions
-
-| Member | Contributions |
-|---------|----------------|
-| **Isaiah Reiff** | Architecture design, implementation, and editing |
-| **Rishigesh Rajendrakumar** | Model integration, testing, documentation |
-| **Srinithi Yalamanchili** | UI and demo development |
-
----
 
 ## ⚠️ Disclaimer
 This tool is intended **for educational and research purposes only** and **should not be used for medical diagnosis**. Always consult a qualified healthcare professional for medical decisions.
